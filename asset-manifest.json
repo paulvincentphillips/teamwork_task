@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/teamwork_task/static/css/main.d33dd536.css",
+    "main.js": "/teamwork_task/static/js/main.ff1a90ae.js",
+    "index.html": "/teamwork_task/index.html",
+    "main.d33dd536.css.map": "/teamwork_task/static/css/main.d33dd536.css.map",
+    "main.ff1a90ae.js.map": "/teamwork_task/static/js/main.ff1a90ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d33dd536.css",
+    "static/js/main.ff1a90ae.js"
+  ]
+}
